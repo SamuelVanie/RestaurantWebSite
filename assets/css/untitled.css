@@ -1,0 +1,17 @@
+input {
+  margin-bottom: 1em;
+}
+
+#btn_valider {
+  align-self: end;
+  margin-top: 3em;
+}
+
+button {
+  padding-left: 2em;
+}
+
+#ajouter {
+  margin-left: 2em;
+}
+
